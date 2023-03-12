@@ -1,0 +1,13 @@
+C:\Users\P\Desktop\Практика\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\P\Desktop\Практика\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\P\Desktop\Практика\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\Users\P\Desktop\Практика\FileManager\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+C:\Users\P\Desktop\Практика\FileManager\FileManager\obj\Debug\FileManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\P\Desktop\Практика\FileManager\FileManager\obj\Debug\FileManager.window.resources
+C:\Users\P\Desktop\Практика\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\Users\P\Desktop\Практика\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\Users\P\Desktop\Практика\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\Практика\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\Users\P\Desktop\Практика\FileManager\FileManager\obj\Debug\FileManager.pdb
+C:\Users\P\Desktop\Практика\FileManager\FileManager\obj\Debug\FileManager.Form2.resources
+C:\Users\P\Desktop\Практика\FileManager\FileManager\obj\Debug\FileManager.Form3.resources
